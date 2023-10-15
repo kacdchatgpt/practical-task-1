@@ -6,3 +6,8 @@ git commit
 git status
 git push
 ```
+---  
+
+___  
+
+[GitHub] (https://github.com/ "Ссылка на сайт")
