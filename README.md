@@ -10,4 +10,4 @@ git push
 
 ___  
 
-[GitHub] (https://github.com/ "Ссылка на сайт")
+[GitHub](https://github.com/ "Ссылка на сайт")
